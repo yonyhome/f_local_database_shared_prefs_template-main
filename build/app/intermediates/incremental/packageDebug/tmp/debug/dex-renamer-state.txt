@@ -1,0 +1,4 @@
+#Mon May 09 10:25:54 COT 2022
+base.0=C\:\\Users\\perfil\\Downloads\\f_local_database_shared_prefs_template-main\\f_local_database_shared_prefs_template-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
